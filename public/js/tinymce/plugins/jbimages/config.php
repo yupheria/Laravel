@@ -95,7 +95,7 @@
 | 
 | Allow script to resize image that exceeds maximum width or maximum height (or both)
 | If set to `TRUE`, image will be resized to fit maximum values (proportions are saved)
-| If set to `FALSE`, user will recieve an error message.
+| If set to `FALSE`, user will receive an error message.
 | 
 | $config['allow_resize'] = TRUE;
 | 
